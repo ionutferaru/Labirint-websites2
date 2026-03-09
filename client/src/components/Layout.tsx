@@ -103,10 +103,11 @@ export default function Layout({ children }: { children: React.ReactNode }) {
       {/* Floating WhatsApp Button */}
       <a
         href="#"
-        className="fixed bottom-6 right-6 z-50 bg-[#25D366] text-white p-4 rounded-full shadow-lg hover:bg-[#20bd5a] transition-colors hover:scale-110 duration-300"
-        aria-label="Contact on WhatsApp"
+        className="fixed bottom-6 right-6 z-50 bg-[#25D366] text-white px-6 py-4 rounded-full shadow-lg hover:bg-[#20bd5a] transition-colors hover:scale-110 duration-300 flex items-center gap-3 font-semibold tracking-wide text-sm uppercase"
+        aria-label="Book Table on WhatsApp"
       >
-        <MessageCircle size={28} />
+        <MessageCircle size={20} />
+        <span>Book Table</span>
       </a>
     </div>
   );
