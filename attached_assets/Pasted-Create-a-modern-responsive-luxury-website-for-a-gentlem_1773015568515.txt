@@ -1,0 +1,145 @@
+Create a modern, responsive luxury website for a gentlemen’s club named “LABIRINT”.
+
+IMPORTANT:
+Do NOT create a single HTML file.
+Create a clean professional structure with separate files:
+
+/index.html
+/menu.html
+/css/style.css
+/js/script.js
+/images/ (folder for placeholders)
+
+GENERAL STYLE:
+
+- Dark luxury theme (deep black background #000000)
+- Subtle radial gradient background
+- Gold accent color (#d4af37 gradient effect)
+- Elegant typography using Google Fonts (Playfair Display + Montserrat)
+- Premium, sensual, refined atmosphere
+- Fully responsive (mobile optimized)
+- Smooth scrolling
+- Subtle hover animations
+- Cinematic layout spacing
+- No cheap design elements
+
+SEO REQUIREMENTS:
+
+Add proper SEO tags in <head>:
+
+- Meta title:
+  “LABIRINT Gentlemen’s Club | Luxury Strip Club in [CITY]”
+
+- Meta description optimized for:
+  gentlemen’s club in [CITY], strip club [CITY], bachelor party, nightlife, luxury club
+
+- Meta keywords
+- Open Graph tags (og:title, og:description, og:image, og:type)
+- Viewport meta
+- Favicon placeholder
+- Proper semantic HTML5 structure
+- H1 only once
+- Structured headings hierarchy (H1, H2, H3)
+
+PAGE STRUCTURE – index.html
+
+1) HERO SECTION
+- Full screen height
+- Dark luxury club atmosphere placeholder image
+- Overlay gradient (black fade)
+- Title (H1):
+  LABIRINT
+- Subtitle:
+  Luxury Gentlemen’s Club in [CITY]
+- Small tagline:
+  Premium Nightlife Experience
+- Two buttons:
+  - “Reserve Now” (scroll to contact section)
+  - “View Menu” (link to menu.html)
+- Gold border buttons with hover gold background
+
+2) ABOUT SECTION
+Title: About LABIRINT
+Text:
+“LABIRINT is an exclusive gentlemen’s club offering a premium nightlife experience in [CITY].
+Enjoy signature drinks, elegant atmosphere and unforgettable nights.
+18+ Only.”
+
+3) PRIVATE EVENTS SECTION
+Title: Private Events & Bachelor Parties
+List:
+- Bachelor Parties
+- Private Events
+- Birthday Celebrations
+- VIP Group Nights
+
+Text:
+“Full venue rental available. Custom packages on request.”
+
+4) GALLERY SECTION
+Grid layout (responsive)
+4–6 placeholder dark themed images
+Hover zoom effect
+
+5) LOCATION SECTION
+Title: Find Us
+Google Maps iframe placeholder
+Text:
+“Located in the heart of [CITY]. Address coming soon.”
+
+6) CONTACT SECTION
+Title: Reservations
+Text:
+“For reservations and private bookings contact us:”
+
+- Phone placeholder
+- WhatsApp placeholder
+- Instagram placeholder
+
+Add floating WhatsApp button bottom-right corner.
+
+7) FOOTER
+Dark minimal footer
+Text:
+© 2026 LABIRINT Gentlemen’s Club – 18+ Only
+
+Include small gold accent line above footer.
+
+MENU PAGE – menu.html
+
+Luxury dark theme consistent with homepage.
+
+Sections:
+- Premium Drinks
+- Champagne
+- Cocktails
+- Soft Drinks
+
+Use elegant card layout.
+Do NOT include prices (leave placeholders).
+Include “Back to Home” button.
+
+CSS REQUIREMENTS:
+
+- Gold gradient text effect class
+- Gold border button class
+- Smooth transitions
+- Section spacing with large padding
+- Responsive grid system
+- Media queries for mobile
+
+JS REQUIREMENTS:
+
+- Smooth scroll for anchor links
+- Mobile hamburger menu toggle
+- Scroll fade-in animation for sections
+
+Performance:
+
+- Optimized layout
+- No unnecessary libraries
+- Fast loading
+
+Make everything clean, premium, minimal, and professional.
+Do not use inline CSS.
+Do not use inline JS.
